@@ -1,0 +1,4017 @@
+[
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0773",
+    "valor": "890.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000089000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0773",
+    "valor": "467.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000046700",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0773",
+    "valor": "230.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000023000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0773",
+    "valor": "986.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000098600",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0773",
+    "valor": "766.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000076600",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0773",
+    "valor": "234.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000023400",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0773",
+    "valor": "90.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000009000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0773",
+    "valor": "468.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000046800",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0773",
+    "valor": "976.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000097600",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0773",
+    "valor": "357.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000035700",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "8999",
+    "valor": "890.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000089000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0773",
+    "valor": "467.00",
+    "linhaDigitavel": "34090.00000 00000.000000 00000.000000 0 00000000046700",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0773",
+    "valor": "230.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000023020",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "322",
+    "agencia": "0773",
+    "valor": "986.00",
+    "linhaDigitavel": "34190.11000 00000.000000 00000.000000 0 00000000098600",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0773",
+    "valor": "766.00",
+    "linhaDigitavel": "34120.00000 00000.000000 00400.000000 0 00040000076600",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0773",
+    "valor": "234.00",
+    "linhaDigitavel": "32290.00000 00000.000000 00000.000000 0 00000000023400",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0773",
+    "valor": "090.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000019000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "9989",
+    "valor": "468.00",
+    "linhaDigitavel": "34190.00000 58000.000000 00000.009000 0 00000000046800",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0773",
+    "valor": "777.00",
+    "linhaDigitavel": "34180.00000 00000.000000 00000.000000 0 00000000077700",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "342",
+    "agencia": "0773",
+    "valor": "357.00",
+    "linhaDigitavel": "34190.00000 00000.001000 00000.000000 0 00000000035700",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0923",
+    "valor": "105.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000010500",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0923",
+    "valor": "490.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000049000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0923",
+    "valor": "244.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000024400",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0923",
+    "valor": "444.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000044400",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0923",
+    "valor": "711.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000071100",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0923",
+    "valor": "418.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000041800",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0923",
+    "valor": "863.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000086300",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0923",
+    "valor": "479.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000047900",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0923",
+    "valor": "76.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000007600",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0923",
+    "valor": "375.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000037500",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0923",
+    "valor": "890.00",
+    "linhaDigitavel": "10430.00000 00000.000000 00000.000000 0 00000000089000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "9777",
+    "valor": "467.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000046700",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0923",
+    "valor": "230.00",
+    "linhaDigitavel": "12490.00000 00000.000000 00000.000000 0 00000000023000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "8888",
+    "valor": "986.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000098600",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0923",
+    "valor": "786.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000076600",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0923",
+    "valor": "234.00",
+    "linhaDigitavel": "11490.00000 00000.000000 00000.000000 0 00000000023400",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0923",
+    "valor": "90.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000009020",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0923",
+    "valor": "468.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000046801",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0923",
+    "valor": "976.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000097640",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "6699",
+    "valor": "357.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000035700",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0047",
+    "valor": "380.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000038000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0047",
+    "valor": "474.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000047400",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0047",
+    "valor": "626.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000062600",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0047",
+    "valor": "329.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000032900",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0047",
+    "valor": "932.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000093200",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0047",
+    "valor": "653.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000065300",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0047",
+    "valor": "905.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000090500",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0047",
+    "valor": "590.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000059000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0047",
+    "valor": "268.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000026800",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0047",
+    "valor": "803.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000080300",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "8888",
+    "valor": "380.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000038000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0047",
+    "valor": "474.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000047410",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "103",
+    "agencia": "0047",
+    "valor": "626.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000062600",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "105",
+    "agencia": "0047",
+    "valor": "329.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000032900",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0047",
+    "valor": "932.00",
+    "linhaDigitavel": "11490.00000 00000.000000 00000.000000 0 00000000093200",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0047",
+    "valor": "655.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000065300",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0047",
+    "valor": "905.00",
+    "linhaDigitavel": "10490.00300 00100.000100 00010.000000 1 00000001090500",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "8879",
+    "valor": "590.00",
+    "linhaDigitavel": "10590.00500 00000.000000 00000.000000 0 00000000059000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0047",
+    "valor": "268.00",
+    "linhaDigitavel": "10495.35711 67912.455157 44444.777777 7 78434501326877",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0047",
+    "valor": "803.00",
+    "linhaDigitavel": "80300.00000 00000.000000 00000.000000 0 00000000010490",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "6083",
+    "valor": "700.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000070000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "123",
+    "agencia": "6083",
+    "valor": "700.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000070000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "6083",
+    "valor": "452.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000045200",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "8363",
+    "valor": "452.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000045200",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "6083",
+    "valor": "500.40",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000050040",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "6083",
+    "valor": "500.40",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000050040",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "6083",
+    "valor": "300.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000030000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "6083",
+    "valor": "300.00",
+    "linhaDigitavel": "23770.00000 00000.000000 00000.000000 0 00000000030000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "6083",
+    "valor": "843.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000084300",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "6083",
+    "valor": "843.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000085035",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "6083",
+    "valor": "336.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000033600",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "6083",
+    "valor": "336.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000073360",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "6083",
+    "valor": "730.45",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000073045",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "6083",
+    "valor": "730.45",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000007304500",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "6083",
+    "valor": "298.50",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000029850",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "3090",
+    "valor": "298.50",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000029850",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "6083",
+    "valor": "515.35",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000051535",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "6083",
+    "valor": "515.35",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000051535",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "6083",
+    "valor": "750.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000075000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "6083",
+    "valor": "750.00",
+    "linhaDigitavel": "23780.00000 00000.000000 00000.000000 0 00000000075000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2322",
+    "valor": "950.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000095000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "341",
+    "agencia": "2322",
+    "valor": "950.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000095000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2322",
+    "valor": "345.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000034500",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2040",
+    "valor": "345.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000034500",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2322",
+    "valor": "260.35",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000026035",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2322",
+    "valor": "260.35",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000026035",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2322",
+    "valor": "800.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000080000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "222",
+    "agencia": "2322",
+    "valor": "800.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000080000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2322",
+    "valor": "900.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000090000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2322",
+    "valor": "900.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000094510",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2322",
+    "valor": "790.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000079000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2322",
+    "valor": "790.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000037900",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2322",
+    "valor": "434.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000043400",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2322",
+    "valor": "434.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000004340000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2322",
+    "valor": "450.21",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000045021",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2322",
+    "valor": "450.21",
+    "linhaDigitavel": "23740.00000 00000.000000 00000.000000 0 00000000045021",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2322",
+    "valor": "520.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000052000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "665",
+    "agencia": "2322",
+    "valor": "520.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000056241",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2322",
+    "valor": "637.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000063700",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "4023",
+    "valor": "637.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000063700",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2300",
+    "valor": "401.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000040100",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2300",
+    "valor": "401.00",
+    "linhaDigitavel": "26090.00000 00000.000000 00000.000000 0 00000000040100",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2300",
+    "valor": "687.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000068700",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "3455",
+    "valor": "687.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000068700",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2300",
+    "valor": "764.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000076400",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "033",
+    "agencia": "2300",
+    "valor": "764.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000076400",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2300",
+    "valor": "259.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000025900",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2300",
+    "valor": "259.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000026850",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2300",
+    "valor": "926.45",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000092645",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2300",
+    "valor": "926.45",
+    "linhaDigitavel": "23750.00000 00000.000000 00000.000000 0 00000000092645",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2300",
+    "valor": "324.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000032400",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2300",
+    "valor": "324.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000023240",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2300",
+    "valor": "890.43",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000089043",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2300",
+    "valor": "890.43",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000008904300",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2300",
+    "valor": "574.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000057400",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "9898",
+    "valor": "574.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000057400",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2300",
+    "valor": "525.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000052500",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2300",
+    "valor": "525.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000005250000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2300",
+    "valor": "388.89",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000038889",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2300",
+    "valor": "388.89",
+    "linhaDigitavel": "00490.00000 00000.000000 00000.000000 0 00000000038889",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0364",
+    "valor": "247.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000024700",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "123",
+    "agencia": "0364",
+    "valor": "247.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000024700",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0364",
+    "valor": "427.25",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000042725",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0364",
+    "valor": "427.25",
+    "linhaDigitavel": "34120.00000 00000.000000 00000.000000 0 00000000042725",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0364",
+    "valor": "550.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000055000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0364",
+    "valor": "550.00",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000055000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0364",
+    "valor": "679.25",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000067925",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "9630",
+    "valor": "679.25",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000067925",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0364",
+    "valor": "777.41",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000077741",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0364",
+    "valor": "777.41",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000078200",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0364",
+    "valor": "991.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000099100",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0364",
+    "valor": "991.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000089910",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0364",
+    "valor": "760.33",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000076033",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0364",
+    "valor": "760.33",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000007603300",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0364",
+    "valor": "881.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000088100",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "260",
+    "agencia": "0364",
+    "valor": "881.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000088100",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0364",
+    "valor": "830.01",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000083001",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0364",
+    "valor": "830.01",
+    "linhaDigitavel": "34140.00000 00000.000000 00000.000000 0 00000000083001",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0364",
+    "valor": "213.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000021300",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0364",
+    "valor": "213.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000002130000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "3295",
+    "valor": "87.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000008700",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "3295",
+    "valor": "4324.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000432400",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "3295",
+    "valor": "46.90",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000004690",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "3295",
+    "valor": "987.56",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000098756",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "3295",
+    "valor": "27.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000002700",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "3295",
+    "valor": "784.20",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000078420",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "3295",
+    "valor": "367.67",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000036767",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "3295",
+    "valor": "7289.47",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 000000000728947",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "3295",
+    "valor": "170.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000017000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "3295",
+    "valor": "378.60",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000037860",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "394",
+    "agencia": "3295",
+    "valor": "87.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000008700",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "3295",
+    "valor": "4324.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000005432400",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "3295",
+    "valor": "46.90",
+    "linhaDigitavel": "17390.00000 00000.000000 00000.000000 0 00000000004690",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4846",
+    "valor": "987.56",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000098756",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "3295",
+    "valor": "27.00",
+    "linhaDigitavel": "03320.00000 00000.000000 00000.000000 0 00000000002700",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "3295",
+    "valor": "784.20",
+    "linhaDigitavel": "38590.00000 00000.000000 00000.000000 0 00000000078420",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "3295",
+    "valor": "367.67",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000084759",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "3295",
+    "valor": "7289.47",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 000000728947000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "998",
+    "agencia": "7384",
+    "valor": "170.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000017000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "3295",
+    "valor": "378.60",
+    "linhaDigitavel": "03360.00000 00000.000000 00000.000000 0 00000000037860",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4419",
+    "valor": "1520.50",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000152050",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4419",
+    "valor": "580.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000058000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4419",
+    "valor": "235.20",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000023520",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4419",
+    "valor": "999.90",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000099990",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4419",
+    "valor": "2678.99",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000267899",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4419",
+    "valor": "150.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000015000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4419",
+    "valor": "43.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000004300",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4419",
+    "valor": "33.50",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000003350",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4419",
+    "valor": "100.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000010000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4419",
+    "valor": "472.35",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000047235",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "113",
+    "agencia": "4419",
+    "valor": "1520.50",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000152050",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "553",
+    "agencia": "4419",
+    "valor": "580.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000058000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "0249",
+    "valor": "235.20",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000023520",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4419",
+    "valor": "999.90",
+    "linhaDigitavel": "44190.00000 00000.000000 00000.000000 0 00000000099990",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4419",
+    "valor": "2678.99",
+    "linhaDigitavel": "03350.00000 00000.000000 00000.000000 0 00000000267899",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4419",
+    "valor": "150.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000089020",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4419",
+    "valor": "43.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000074300",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "0889",
+    "valor": "33.50",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000003350",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4419",
+    "valor": "100.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000100000000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "673",
+    "agencia": "4419",
+    "valor": "472.35",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000047235",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4159",
+    "valor": "55.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000005500",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4159",
+    "valor": "1345.60",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000134560",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4159",
+    "valor": "500.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000050000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4159",
+    "valor": "70.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000007000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4159",
+    "valor": "958.40",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000095840",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4159",
+    "valor": "1055.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000105500",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4159",
+    "valor": "5040.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000504000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4159",
+    "valor": "738.90",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000073890",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4159",
+    "valor": "2358.50",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000235850",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4159",
+    "valor": "25.99",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000002599",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "0528",
+    "valor": "55.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000005500",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "063",
+    "agencia": "4159",
+    "valor": "1345.60",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000134560",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4159",
+    "valor": "500.00",
+    "linhaDigitavel": "12390.00000 00000.000000 00000.000000 0 00000000050000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4159",
+    "valor": "70.00",
+    "linhaDigitavel": "03360.00000 00000.000000 00000.000000 0 00000000007000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4159",
+    "valor": "958.40",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000958400000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4159",
+    "valor": "1055.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000124500",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "0124",
+    "valor": "5040.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000504000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "778",
+    "agencia": "4159",
+    "valor": "738.90",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000073890",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4159",
+    "valor": "2358.50",
+    "linhaDigitavel": "03310.00000 00000.000000 00000.000000 0 00000000235850",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4159",
+    "valor": "25.99",
+    "linhaDigitavel": "56790.00000 00000.000000 00000.000000 0 00000000002599",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4048",
+    "valor": "95.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000009500",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4048",
+    "valor": "864.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000086400",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4048",
+    "valor": "234.56",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000023456",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4048",
+    "valor": "9874.90",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000987490",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4048",
+    "valor": "453.50",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000045350",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4048",
+    "valor": "2674.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000267400",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4048",
+    "valor": "80.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000008000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4048",
+    "valor": "420.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000042000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4048",
+    "valor": "77.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000007700",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4048",
+    "valor": "321.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000032100",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "011",
+    "agencia": "4048",
+    "valor": "95.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000009500",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "1234",
+    "valor": "864.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000086400",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4048",
+    "valor": "234.56",
+    "linhaDigitavel": "98690.00000 00000.000000 00000.000000 0 00000000023456",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4048",
+    "valor": "9874.90",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000009987490",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "847",
+    "agencia": "4048",
+    "valor": "453.50",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000045350",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4048",
+    "valor": "2674.00",
+    "linhaDigitavel": "03360.00000 00000.000000 00000.000000 0 00000000267400",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4048",
+    "valor": "80.00",
+    "linhaDigitavel": "03320.00000 00000.000000 00000.000000 0 00000000008000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4830",
+    "valor": "420.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000042000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4048",
+    "valor": "77.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000007700000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4048",
+    "valor": "321.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000321000000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4052",
+    "valor": "150.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000015000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4052",
+    "valor": "275.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000027500",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4052",
+    "valor": "92.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000009200",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4052",
+    "valor": "640.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000064000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4052",
+    "valor": "312.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000031200",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4052",
+    "valor": "801.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000080100",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4052",
+    "valor": "430.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000043000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4052",
+    "valor": "221.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000022100",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4052",
+    "valor": "369.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000036900",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4052",
+    "valor": "574.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000057400",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4052",
+    "valor": "150.00",
+    "linhaDigitavel": "03330.00000 00000.000000 00000.000000 0 00000000015000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "0999",
+    "valor": "275.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000027500",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4052",
+    "valor": "92.00",
+    "linhaDigitavel": "03290.00000 00000.000000 00000.000000 0 00000000009200",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "083",
+    "agencia": "4052",
+    "valor": "640.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000064000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4052",
+    "valor": "312.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000031299",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4052",
+    "valor": "801.00",
+    "linhaDigitavel": "03490.00000 00000.000000 00000.000000 0 00000000080100",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "7788",
+    "valor": "430.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000043000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4052",
+    "valor": "221.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000022200",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4052",
+    "valor": "969.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000036900",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Santander",
+    "codigoBanco": "033",
+    "agencia": "4052",
+    "valor": "574.00",
+    "linhaDigitavel": "03390.00000 00000.000000 00000.000000 0 00000000057411",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0045",
+    "valor": "120.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000012000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0045",
+    "valor": "235.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000023500",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0045",
+    "valor": "376.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000037600",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0045",
+    "valor": "491.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000049100",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0045",
+    "valor": "560.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000056000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0045",
+    "valor": "613.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000061300",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0045",
+    "valor": "748.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000074800",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0045",
+    "valor": "804.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000080400",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0045",
+    "valor": "910.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000091000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0045",
+    "valor": "47.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000004700",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0045",
+    "valor": "120.00",
+    "linhaDigitavel": "10430.00000 00000.000000 00000.000000 0 00000000012000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0045",
+    "valor": "235.00",
+    "linhaDigitavel": "11490.00000 00000.000000 00000.000000 0 00000000023500",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "9996",
+    "valor": "376.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000037600",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "105",
+    "agencia": "0045",
+    "valor": "491.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000049100",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0045",
+    "valor": "560.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000056100",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0045",
+    "valor": "619.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000061300",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "6333",
+    "valor": "748.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000074800",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0045",
+    "valor": "804.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000080900",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0045",
+    "valor": "910.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000099900",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0045",
+    "valor": "47.00",
+    "linhaDigitavel": "12490.00000 00000.000000 00000.000000 0 00000000004700",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0867",
+    "valor": "132.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000013200",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0867",
+    "valor": "241.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000024100",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0867",
+    "valor": "384.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000038400",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0867",
+    "valor": "428.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000042800",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0867",
+    "valor": "599.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000059900",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0867",
+    "valor": "683.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000068300",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0867",
+    "valor": "752.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000075200",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0867",
+    "valor": "812.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000081200",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0867",
+    "valor": "945.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000094500",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0867",
+    "valor": "57.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000005700",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0867",
+    "valor": "132.00",
+    "linhaDigitavel": "11490.00000 00000.000000 00000.000000 0 00000000013200",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "102",
+    "agencia": "0867",
+    "valor": "241.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000024100",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "9989",
+    "valor": "384.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000038400",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0867",
+    "valor": "428.00",
+    "linhaDigitavel": "10450.00000 00000.000000 00000.000000 0 00000000042800",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0867",
+    "valor": "599.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000059800",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0867",
+    "valor": "683.00",
+    "linhaDigitavel": "12490.00000 00000.000000 00000.000000 0 00000000068300",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0867",
+    "valor": "752.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000075300",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0867",
+    "valor": "812.00",
+    "linhaDigitavel": "10430.00000 00000.000000 00000.000000 0 00000000081200",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "0867",
+    "valor": "945.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000094900",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "8777",
+    "valor": "57.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000005700",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "3484",
+    "valor": "108.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000010800",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "3484",
+    "valor": "190.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000019000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "3484",
+    "valor": "333.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000033300",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "3484",
+    "valor": "444.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000044400",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "3484",
+    "valor": "500.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000050000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "3484",
+    "valor": "606.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000060600",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "3484",
+    "valor": "747.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000074700",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "3484",
+    "valor": "851.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000085100",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "3484",
+    "valor": "932.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000093200",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "3484",
+    "valor": "65.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000006500",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "9797",
+    "valor": "108.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000010800",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "101",
+    "agencia": "3484",
+    "valor": "190.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000019000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "3484",
+    "valor": "333.00",
+    "linhaDigitavel": "11490.00000 00000.000000 00000.000000 0 00000000033300",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "3484",
+    "valor": "444.00",
+    "linhaDigitavel": "10430.00000 00000.000000 00000.000000 0 00000000044400",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "3484",
+    "valor": "500.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000050006",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "3484",
+    "valor": "66.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000060600",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "3484",
+    "valor": "747.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000074800",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "3484",
+    "valor": "851.00",
+    "linhaDigitavel": "10460.00000 00000.000000 00000.000000 0 00000000085100",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "104",
+    "agencia": "3484",
+    "valor": "932.00",
+    "linhaDigitavel": "12490.00000 00000.000000 00000.000000 0 00000000093200",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Caixa Econômica",
+    "codigoBanco": "103",
+    "agencia": "3484",
+    "valor": "65.00",
+    "linhaDigitavel": "10490.00000 00000.000000 00000.000000 0 00000000006500",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "3175",
+    "valor": "700.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000070000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "3175",
+    "valor": "700.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000075000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "3175",
+    "valor": "500.40",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000050040",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "344",
+    "agencia": "3175",
+    "valor": "500.40",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000050040",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "3175",
+    "valor": "300.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000030000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "6565",
+    "valor": "300.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000030000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "3175",
+    "valor": "250.75",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000025075",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "3175",
+    "valor": "2050.75",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000025075",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "3175",
+    "valor": "120.50",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000012050",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "3175",
+    "valor": "120.50",
+    "linhaDigitavel": "34290.00000 00000.000000 00000.000000 0 00000000012050",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "3175",
+    "valor": "800.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000080000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "343",
+    "agencia": "3175",
+    "valor": "800.00",
+    "linhaDigitavel": "34390.00000 00000.000000 00000.000000 0 00000000080000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "3175",
+    "valor": "150.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000015000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "3175",
+    "valor": "150.00",
+    "linhaDigitavel": "34170.00000 00000.000000 00000.000000 0 00000000015000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "3175",
+    "valor": "950.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000095000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "3175",
+    "valor": "950.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000091000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "3175",
+    "valor": "65.30",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000006530",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "344",
+    "agencia": "3175",
+    "valor": "65.30",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000006530",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "3175",
+    "valor": "350.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000035000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "8787",
+    "valor": "350.00",
+    "linhaDigitavel": "34191.00000 00000.000000 00000.000000 0 00000000035000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0814",
+    "valor": "180.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000018000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0814",
+    "valor": "180.00",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000018000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0814",
+    "valor": "220.50",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000022050",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0814",
+    "valor": "220.50",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000022050",
+    "classe": "caracteristicasFalsas"
+  },
+
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0814",
+    "valor": "300.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000030000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "8977",
+    "valor": "300.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000030000",
+    "classe": "caracteristicasFalsas"
+  },
+
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0814",
+    "valor": "415.75",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000041575",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "342",
+    "agencia": "0814",
+    "valor": "415.75",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000041575",
+    "classe": "caracteristicasFalsas"
+  },
+
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0814",
+    "valor": "510.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000051000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0814",
+    "valor": "5100.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000051000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0814",
+    "valor": "750.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000075000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0814",
+    "valor": "750.00",
+    "linhaDigitavel": "34180.00000 00000.000000 00000.000000 0 00000000075000",
+    "classe": "caracteristicasFalsas"
+  },
+
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0814",
+    "valor": "320.90",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000032090",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "441",
+    "agencia": "0814",
+    "valor": "320.90",
+    "linhaDigitavel": "44190.00000 00000.000000 00000.000000 0 00000000032090",
+    "classe": "caracteristicasFalsas"
+  },
+
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0814",
+    "valor": "1050.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000105000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0814",
+    "valor": "1050.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000101000",
+    "classe": "caracteristicasFalsas"
+  },
+
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0814",
+    "valor": "199.99",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000019999",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "345",
+    "agencia": "0814",
+    "valor": "199.99",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000019999",
+    "classe": "caracteristicasFalsas"
+  },
+
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "0814",
+    "valor": "870.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000087000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "8888",
+    "valor": "870.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000087000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "1594",
+    "valor": "650.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000065000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "342",
+    "agencia": "1594",
+    "valor": "650.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000065000",
+    "classe": "caracteristicasFalsas"
+  },
+
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "1594",
+    "valor": "200.25",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000020025",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "8787",
+    "valor": "200.25",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000020025",
+    "classe": "caracteristicasFalsas"
+  },
+
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "1594",
+    "valor": "140.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000014000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "1594",
+    "valor": "150.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000014000",
+    "classe": "caracteristicasFalsas"
+  },
+
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "1594",
+    "valor": "410.40",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000041040",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "342",
+    "agencia": "1594",
+    "valor": "410.40",
+    "linhaDigitavel": "34290.00000 00000.000000 00000.000000 0 00000000041040",
+    "classe": "caracteristicasFalsas"
+  },
+
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "1594",
+    "valor": "890.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000089000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "1594",
+    "valor": "890.00",
+    "linhaDigitavel": "34180.00000 00000.000000 00000.000000 0 00000000089000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "1594",
+    "valor": "999.99",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000099999",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "1594",
+    "valor": "999.99",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000095000",
+    "classe": "caracteristicasFalsas"
+  },
+
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "1594",
+    "valor": "370.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000037000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "348",
+    "agencia": "1594",
+    "valor": "370.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000037000",
+    "classe": "caracteristicasFalsas"
+  },
+
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "1594",
+    "valor": "560.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000056000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "6599",
+    "valor": "560.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000056000",
+    "classe": "caracteristicasFalsas"
+  },
+
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "1594",
+    "valor": "480.80",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000048080",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "1594",
+    "valor": "480.80",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000044000",
+    "classe": "caracteristicasFalsas"
+  },
+
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "1594",
+    "valor": "730.00",
+    "linhaDigitavel": "34190.00000 00000.000000 00000.000000 0 00000000073000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Itaú",
+    "codigoBanco": "341",
+    "agencia": "1594",
+    "valor": "730.00",
+    "linhaDigitavel": "34110.00000 00000.000000 00000.000000 0 00000000073000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "3201",
+    "valor": "100.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000010000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "3201",
+    "valor": "200.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000020000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "3201",
+    "valor": "300.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000030000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "3201",
+    "valor": "400.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000040000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "3201",
+    "valor": "500.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000050000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "3201",
+    "valor": "600.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000060000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "3201",
+    "valor": "700.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000070000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "3201",
+    "valor": "800.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000080000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "3201",
+    "valor": "900.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000090000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "3201",
+    "valor": "1000.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000100000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "3201",
+    "valor": "100.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00001000000000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "989",
+    "agencia": "3201",
+    "valor": "200.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000020000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "9898",
+    "valor": "300.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000030000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "3201",
+    "valor": "4000.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000040000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "3201",
+    "valor": "500.00",
+    "linhaDigitavel": "23690.00000 00000.000000 00000.000000 0 00000000050000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "236",
+    "agencia": "3201",
+    "valor": "600.00",
+    "linhaDigitavel": "23690.00000 00000.000000 00000.000000 0 00000000060000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "3201",
+    "valor": "700.00",
+    "linhaDigitavel": "23780.00000 00000.000000 00000.000000 0 00000000070000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "3201",
+    "valor": "800.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000088000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "236",
+    "agencia": "3201",
+    "valor": "900.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000090000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "7878",
+    "valor": "1000.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000100000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2560",
+    "valor": "120.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000012000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2560",
+    "valor": "240.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000024000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2560",
+    "valor": "360.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000036000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2560",
+    "valor": "480.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000048000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2560",
+    "valor": "600.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000060000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2560",
+    "valor": "720.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000072000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2560",
+    "valor": "840.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000084000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2560",
+    "valor": "960.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000096000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2560",
+    "valor": "1080.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000108000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2560",
+    "valor": "1200.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000120000",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "233",
+    "agencia": "2560",
+    "valor": "120.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000012000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "9878",
+    "valor": "240.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000024000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2560",
+    "valor": "3600.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000036000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2560",
+    "valor": "480.00",
+    "linhaDigitavel": "23690.00000 00000.000000 00000.000000 0 00000000048000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "236",
+    "agencia": "2560",
+    "valor": "600.00",
+    "linhaDigitavel": "23690.00000 00000.000000 00000.000000 0 00000000060000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2560",
+    "valor": "720.00",
+    "linhaDigitavel": "23770.00000 00000.000000 00000.000000 0 00000000072000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "235",
+    "agencia": "2560",
+    "valor": "840.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000084000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "6565",
+    "valor": "960.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000096000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2560",
+    "valor": "10800.00",
+    "linhaDigitavel": "23790.00000 00000.000000 00000.000000 0 00000000108000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Bradesco",
+    "codigoBanco": "237",
+    "agencia": "2560",
+    "valor": "1200.00",
+    "linhaDigitavel": "23760.00000 00000.000000 00000.000000 0 00000000120000",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2889",
+    "valor": "398.84",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000039884",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2889",
+    "valor": "676.36",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000067636",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2889",
+    "valor": "955.83",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000095583",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2889",
+    "valor": "783.13",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000078313",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2889",
+    "valor": "754.71",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000075471",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2889",
+    "valor": "554.83",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000055483",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2889",
+    "valor": "702.29",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000070229",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2889",
+    "valor": "422.10",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000042210",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2889",
+    "valor": "805.16",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000080516",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2889",
+    "valor": "370.78",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000037078",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "9999",
+    "valor": "222.56",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000022256",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2889",
+    "valor": "55.46",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000481551",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2889",
+    "valor": "45599.95",
+    "linhaDigitavel": "00180.00000 00000.000000 00000.000000 0 00000004559995",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "002",
+    "agencia": "2889",
+    "valor": "527.27",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000052727",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2889",
+    "valor": "22.58",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000032072",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2889",
+    "valor": "6265.18",
+    "linhaDigitavel": "00160.00000 00000.000000 00000.000000 0 00000000626518",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "006",
+    "agencia": "2889",
+    "valor": "3968.74",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000396874",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2889",
+    "valor": "3968.74",
+    "linhaDigitavel": "00290.00000 00000.000000 00000.000000 0 00000000396874",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "6669",
+    "valor": "3988.87",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000398887",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "003",
+    "agencia": "2889",
+    "valor": "6883.28",
+    "linhaDigitavel": "00390.00000 00000.000000 00000.000000 0 00000000688328",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2811",
+    "valor": "910.77",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000091077",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2811",
+    "valor": "436.87",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000043687",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2811",
+    "valor": "205.56",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000020556",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2811",
+    "valor": "488.72",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000048872",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2811",
+    "valor": "697.50",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000069750",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2811",
+    "valor": "157.72",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000015772",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2811",
+    "valor": "319.31",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000031931",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2811",
+    "valor": "50.67",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000005067",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2811",
+    "valor": "135.50",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000013550",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2811",
+    "valor": "302.03",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000030203",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2811",
+    "valor": "998.78",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000030203",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "9988",
+    "valor": "302.03",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000030203",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "009",
+    "agencia": "2811",
+    "valor": "4461.02",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000446102",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2811",
+    "valor": "1685.31",
+    "linhaDigitavel": "00990.00000 00000.000000 00000.000000 0 00000000168531",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2811",
+    "valor": "5772.84",
+    "linhaDigitavel": "00180.00000 00000.000000 00000.000000 0 00000000577284",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "003",
+    "agencia": "2811",
+    "valor": "5772.84",
+    "linhaDigitavel": "00390.00000 00000.000000 00000.000000 0 00000000577284",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2811",
+    "valor": "989.44",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000577284",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "9878",
+    "valor": "3336.66",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000333666",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "002",
+    "agencia": "2811",
+    "valor": "3336.66",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000333666",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "2811",
+    "valor": "3336.66",
+    "linhaDigitavel": "00170.00000 00000.000000 00000.000000 0 00000000333666",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0007",
+    "valor": "974.70",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000097470",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0007",
+    "valor": "731.09",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000073109",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0007",
+    "valor": "980.65",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000098065",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0007",
+    "valor": "813.36",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000081336",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0007",
+    "valor": "281.26",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000028126",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0007",
+    "valor": "223.44",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000022344",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0007",
+    "valor": "765.77",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000076577",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0007",
+    "valor": "36.89",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000003689",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0007",
+    "valor": "468.72",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000046872",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0007",
+    "valor": "807.54",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000080754",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "002",
+    "agencia": "0007",
+    "valor": "6049.33",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000604933",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "9998",
+    "valor": "275.80",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000027580",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0007",
+    "valor": "898.22",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000345694",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0007",
+    "valor": "531.16",
+    "linhaDigitavel": "00290.00000 00000.000000 00000.000000 0 00000000053116",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "002",
+    "agencia": "0007",
+    "valor": "4712.42",
+    "linhaDigitavel": "00290.00000 00000.000000 00000.000000 0 00000000471242",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0007",
+    "valor": "540.33",
+    "linhaDigitavel": "00180.00000 00000.000000 00000.000000 0 00000000054033",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0007",
+    "valor": "985.55",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000921364",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "7777",
+    "valor": "8580.94",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000858094",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0007",
+    "valor": "145.85",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000130843",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0007",
+    "valor": "5982.96",
+    "linhaDigitavel": "00390.00000 00000.000000 00000.000000 0 00000000598296",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0325",
+    "valor": "964.34",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000096434",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0325",
+    "valor": "531.36",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000053136",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0325",
+    "valor": "208.61",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000020861",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0325",
+    "valor": "176.72",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000017672",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0325",
+    "valor": "2.72",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000000272",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0325",
+    "valor": "807.78",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000080778",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0325",
+    "valor": "841.38",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000084138",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0325",
+    "valor": "964.16",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000096416",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0325",
+    "valor": "341.36",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000034136",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0325",
+    "valor": "971.31",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000097131",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "006",
+    "agencia": "0325",
+    "valor": "498.06",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000049806",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "9877",
+    "valor": "554.16",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000055416",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0325",
+    "valor": "22.25",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000446773",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0325",
+    "valor": "634.06",
+    "linhaDigitavel": "00690.00000 00000.000000 00000.000000 0 00000000063406",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "002",
+    "agencia": "0325",
+    "valor": "7805.51",
+    "linhaDigitavel": "00290.00000 00000.000000 00000.000000 0 00000000780551",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0325",
+    "valor": "5693.67",
+    "linhaDigitavel": "00180.00000 00000.000000 00000.000000 0 00000000569367",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "009",
+    "agencia": "0325",
+    "valor": "5693.67",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000569367",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "9898",
+    "valor": "5693.67",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000569367",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0325",
+    "valor": "555.78",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000085162",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "0325",
+    "valor": "1012.42",
+    "linhaDigitavel": "00290.00000 00000.000000 00000.000000 0 00000000101242",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "1620",
+    "valor": "457.81",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000045781",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "1620",
+    "valor": "839.31",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000083931",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "1620",
+    "valor": "69.24",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000006924",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "1620",
+    "valor": "962.95",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000096295",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "1620",
+    "valor": "458.34",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000045834",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "1620",
+    "valor": "589.26",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000058926",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "1620",
+    "valor": "513.68",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000051368",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "1620",
+    "valor": "301.53",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000030153",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "1620",
+    "valor": "212.38",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000021238",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "1620",
+    "valor": "219.71",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000021971",
+    "classe": "caracteristicasVerdadeiras"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "002",
+    "agencia": "1620",
+    "valor": "9275.41",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000927541",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "8787",
+    "valor": "618.77",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000061877",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "1620",
+    "valor": "252.78",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000044910",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "1620",
+    "valor": "449.10",
+    "linhaDigitavel": "00390.00000 00000.000000 00000.000000 0 00000000044910",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "1620",
+    "valor": "449.10",
+    "linhaDigitavel": "00180.00000 00000.000000 00000.000000 0 00000000044910",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "1620",
+    "valor": "449.10",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000045910",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "009",
+    "agencia": "1620",
+    "valor": "459.10",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000045910",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "7878",
+    "valor": "4540.05",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000454005",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "1620",
+    "valor": "89.85",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000124858",
+    "classe": "caracteristicasFalsas"
+  },
+  {
+    "banco": "Banco do Brasil",
+    "codigoBanco": "001",
+    "agencia": "1620",
+    "valor": "989.75",
+    "linhaDigitavel": "00190.00000 00000.000000 00000.000000 0 00000000124858",
+    "classe": "caracteristicasFalsas"
+  }
+]
